@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Untitled Multiplayer Game Start Menu.unity
+    guid: 2b3a75319b1109c4297d5870b5b2af60
+  - enabled: 1
+    path: Assets/Scenes/UMG Select Game.unity
+    guid: 9475f9cb0ffa3c944a17932251ef3bd5
+  - enabled: 1
+    path: Assets/Scenes/Snowball Fight Instructions.unity
+    guid: 27fba4d611e4fbb4ea4417e21d36003f
+  - enabled: 1
+    path: Assets/Scenes/Tap n Mash Instructions.unity
+    guid: 67ea59ad697c46949a3b46f64b53be4e
+  - enabled: 1
+    path: Assets/Scenes/PF Race Instructions.unity
+    guid: b1eee6f40baee5e41a5a68409a3bc036
+  - enabled: 1
     path: Assets/Scenes/Snowball Fight Scene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Tap N Mash.unity
+    guid: ce300067869f21343add1ed23f3742c6
+  - enabled: 1
+    path: Assets/Scenes/Platform Race.unity
+    guid: 10a1e91e9d333f64d930a0edc9b4c87c
   m_configObjects: {}
